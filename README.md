@@ -22,7 +22,7 @@ HALorHAR
 Данная програма создана в развлекательных целях и не несет целей оскорбить что-то или кого-либо и не наносит сильного вреда вашему компьютеру.
 
 # СКАЧАТЬ
-[![HALorHAR Download](https://github.com/user-attachments/assets/83c49e77-2b81-44c1-a652-7b36388e885e)]((https://teamresistors.github.io/HALorHAR.zip))
+[![HALorHAR Download](https://github.com/user-attachments/assets/83c49e77-2b81-44c1-a652-7b36388e885e)]([https://teamresistors.github.io/HALorHAR.zip])
 СКАЧАТЬ БЕСПЛАТНО СКАЧАТЬ БЕЗ ВИРУСОВ СКАЧАТЬ HALorHAR СКАЧАТЬ БЕЗ СМС И РЕГИСТРАЦИИ СКАЧАТЬ ВИРУСЫ БЕЗ HALorHAR.exe СКАЧАТЬ ДЛЯ ДЕТЕЙ-ИНВАЛИДОВ
 
 ### -- Team Resistors
